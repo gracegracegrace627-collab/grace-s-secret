@@ -1,0 +1,21 @@
+body {
+  background-color: #ffd9ec;
+  color: #e0e0e0;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  padding: 50px;
+}
+input {
+  background: #f3f3fa;
+  border: 1px solid #e6e6f2;
+  color: #dedebe;
+  padding: 8px;
+}
+button {
+  background: #d2e9ff;
+  border: none;
+  color: #ddddff;
+  padding: 8px 12px;
+  margin-left: 10px;
+  cursor: pointer;
+}
